@@ -10,7 +10,7 @@ import random
 # In[24]:
 
 
-print("Welcome to the guessing game! You will have a maximum of 5 attempts to guess the correct number.")
+print("Welcome to the guessing game! You will have a maximum of 5 attempts to guess the correct number and the numbers are between 1 and 100")
 
 
 # In[18]:
